@@ -1,0 +1,1 @@
+test_text_for_the_testing_of_SHA256_hash_function
